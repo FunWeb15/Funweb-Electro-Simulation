@@ -1,0 +1,5 @@
+{
+  "name": "Funweb ElectroStatic Simulation",
+  "description": "A high-fidelity, deterministic educational physics engine simulating electrostatic forces, motion, and charge interactions with real-time visual feedback.",
+  "requestFramePermissions": []
+}
